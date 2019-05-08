@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Fry",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Philip_Fry.png/220px-Philip_Fry.png"
+    },
+    {
+        "id": 2,
+        "name": "Leela",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Turanga_Leela.png/150px-Turanga_Leela.png"
+    },
+    {
+        "id": 3,
+        "name": "Professor",
+        "image": "https://i.pinimg.com/originals/87/c0/34/87c03491a1785c90021111936dc6549e.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Bender",
+        "image": "https://library.kissclipart.com/20190417/oge/kissclipart-bender-robot-list-of-recurring-futurama-characters-be4aa561730a163e.png"
+    },
+    {
+        "id": 5,
+        "name": "Amy",
+        "image": "https://static.giantbomb.com/uploads/square_small/11/118833/2965013-8277900239-latest"
+    },
+    {
+        "id": 6,
+        "name": "Nibbler",
+        "image": "https://vignette.wikia.nocookie.net/en.futurama/images/2/26/Lord_Nibbler.png/revision/latest?cb=20101013083936"
+    },
+    {
+        "id": 7,
+        "name": "Zoidberg",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Dr_John_Zoidberg.png/200px-Dr_John_Zoidberg.png"
+    },
+    {
+        "id": 8,
+        "name": "Scruffy",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3qPHSW_PIh5MrWkRW3KUKBA8ky9JfMja66fkvwS6yAIkcamcb"
+    }
+]
